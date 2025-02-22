@@ -8,3 +8,5 @@ step 3: install all the packages mentioned in "Requaired packages.md" file (tens
 step 4: run "modeltraining.py" file to train your AI Model.
 
 step 5: run "trainedmodel.py" file to test your AI Model.
+
+tip : use python 3.11 
