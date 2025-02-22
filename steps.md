@@ -10,3 +10,5 @@ step 4: run "modeltraining.py" file to train your AI Model.
 step 5: run "trainedmodel.py" file to test your AI Model.
 
 tip : use python 3.11 
+
+tip : save all the ".py" files in one folder(ex. project1)
