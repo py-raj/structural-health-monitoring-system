@@ -22,4 +22,4 @@ def predict_image(image_path):
     print(f"Predicted Category: {label}")
 
 # Test with an example image
-predict_image(r"00007.jpg")  # Replace with your image path
+predict_image(r"D:\dataset\Healthy\20000.jpg")  # Replace with your image path
